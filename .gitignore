@@ -1,0 +1,23 @@
+f100
+f101
+git status
+[A[F[B[C[C[C[C[C[C[C[C
+
+$ git status
+[A[C[C[C[C[C
+[D[D[A[A[A[A[A[A[A[B[B[B[B[BRavi Shastri@LAPTOP-N7I0L14N MINGW64 /f/DevOps Project/cherry-pick (master)
+$ git status
+exit
+exit
+:wq!
+
+
+
+
+
+
+
+
+
+[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C
+
